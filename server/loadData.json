@@ -1,0 +1,17 @@
+[
+  {
+    "load_id": "L1",
+    "origin": "Chicago, IL",
+    "destination": "Dallas, TX",
+    "pickup_datetime": "2025-08-15T08:30:00Z",
+    "delivery_datetime": "2025-08-17T17:00:00Z",
+    "equipment_type": "Dry Van",
+    "loadboard_rate": 2000,
+    "notes": "Standard freight",
+    "weight": 15000,
+    "commodity_type": "Electronics",
+    "num_of_pieces": 50,
+    "miles": 925,
+    "dimensions": "48x40x60"
+  }
+]

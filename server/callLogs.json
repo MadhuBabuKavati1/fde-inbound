@@ -1,0 +1,92 @@
+[
+  {
+    "transcript": "Yes I can take the load",
+    "outcome": "Agreed",
+    "sentiment": "Positive",
+    "timestamp": "2025-08-14T17:49:53.441Z"
+  },
+  {
+    "transcript": "Yes I can take the load",
+    "outcome": "Agreed",
+    "sentiment": "Positive",
+    "timestamp": "8/14/2025, 5:55:44 PM"
+  },
+  {
+    "transcript": "Yes I can take the load",
+    "outcome": "Agreed",
+    "sentiment": "Positive",
+    "timestamp": "2025-08-14T18:09:29.144Z"
+  },
+  {
+    "transcript": "[]",
+    "outcome": "Load Matched",
+    "sentiment": "Neutral",
+    "timestamp": "2025-08-14T19:15:46.201Z"
+  },
+  {
+    "transcript": "[{\"id\":null,\"role\":\"event\",\"content\":\"user_joined\"},{\"id\":\"0198aa03-a43d-7a07-80b4-cf384c8e63d3\",\"role\":\"assistant\",\"content\":\"Hello, thanks for calling Acme Logistics. May I have your MC or DOT number so I can verify your carrier eligibility?\"},{\"id\":\"2855dae9-3e95-4560-a7bc-599f426ac875\",\"role\":\"user\",\"content\":\"Yeah. Uh, my MC number is 123456\",\"start\":7830,\"end\":12710},{\"id\":\"0198aa03-e709-7271-9722-854e3029aa18\",\"role\":\"assistant\",\"content\":\"Thank you for providing your MC number. Unfortunately, it seems that your carrier is not eligible at this time. If you have any other questions or need further assistance, please feel free to reach out. Have a great day!\",\"tool_calls\":[{\"id\":\"call_AwE6uvTVJyhvA4rYfngbEYit\",\"function\":{\"name\":\"_hangup\",\"arguments\":\"{\\\"_message\\\":\\\"Thank you for providing your MC number. Unfortunately, it seems that your carrier is not eligible at this time. If you have any other questions or need further assistance, please feel free to reach out. Have a great day!\\\"}\"}}]},{\"id\":null,\"role\":\"event\",\"content\":\"agent_hung_up\"}]",
+    "outcome": "Load Matched",
+    "sentiment": "Negative",
+    "timestamp": "2025-08-14T19:17:19.392Z"
+  },
+  {
+    "transcript": "[{\"id\":null,\"role\":\"event\",\"content\":\"user_joined\"},{\"id\":\"0198aa05-a591-79dd-91a2-78d58bcf62c6\",\"role\":\"assistant\",\"content\":\"Hello, thanks for calling Acme Logistics. May I have your MC or DOT number so I can verify your carrier eligibility?\"},{\"id\":\"b6840235-1920-4c5a-8600-1fbf1bfefb66\",\"role\":\"user\",\"content\":\"Yeah. My MC number is 148115.\",\"start\":7580,\"end\":11020},{\"id\":\"0198aa05-e0a1-7a36-9e27-9a36907bf3cb\",\"role\":\"assistant\",\"content\":\"Thank you for providing your MC number. Unfortunately, it seems that your carrier is not eligible at this time. If you have any further questions or need assistance, please feel free to reach out again. Have a great day!\",\"tool_calls\":[{\"id\":\"call_3LMdbfSVGsbv8OHexuChqIzJ\",\"function\":{\"name\":\"_hangup\",\"arguments\":\"{\\\"_message\\\":\\\"Thank you for providing your MC number. Unfortunately, it seems that your carrier is not eligible at this time. If you have any further questions or need assistance, please feel free to reach out again. Have a great day!\\\"}\"}}]},{\"id\":null,\"role\":\"event\",\"content\":\"agent_hung_up\"}]",
+    "outcome": "Load Matched",
+    "sentiment": "Negative",
+    "timestamp": "2025-08-14T19:19:28.923Z"
+  },
+  {
+    "transcript": "[{\"id\":null,\"role\":\"event\",\"content\":\"user_joined\"},{\"id\":\"0198aa07-e6a8-7c1a-98f1-14f1b429f50d\",\"role\":\"assistant\",\"content\":\"Hello, thanks for calling Acme Logistics. May I have your MC or DOT number so I can verify your carrier eligibility?\"},{\"id\":\"7a5b77bb-ef94-4b8f-ad76-30958337204a\",\"role\":\"user\",\"content\":\"Yeah. My MC number is 209324.\",\"start\":7050,\"end\":11550},{\"id\":\"0198aa08-21e1-73e2-a73f-27a8dfe699df\",\"role\":\"assistant\",\"content\":\"Thank you for providing your MC number. Unfortunately, it seems that your carrier is not eligible at this time. If you have any other questions or need further assistance, please feel free to reach out. Have a great day!\",\"tool_calls\":[{\"id\":\"call_uCE9I7QTbkJCc1kZWEUiEEKB\",\"function\":{\"name\":\"_hangup\",\"arguments\":\"{\\\"_message\\\":\\\"Thank you for providing your MC number. Unfortunately, it seems that your carrier is not eligible at this time. If you have any other questions or need further assistance, please feel free to reach out. Have a great day!\\\"}\"}}]},{\"id\":null,\"role\":\"event\",\"content\":\"agent_hung_up\"}]",
+    "outcome": "Load Matched",
+    "sentiment": "Negative",
+    "timestamp": "2025-08-14T19:21:56.686Z"
+  },
+  {
+    "transcript": "[{\"id\":null,\"role\":\"event\",\"content\":\"user_joined\"},{\"id\":\"0198aa08-cf67-73d8-8e18-19c4775aa72e\",\"role\":\"assistant\",\"content\":\"Hello, thanks for calling Acme Logistics. May I have your MC or DOT number so I can verify your carrier eligibility?\"},{\"id\":\"577b8abd-cb8e-4cc4-978f-5a1b9b971adf\",\"role\":\"user\",\"content\":\"Yeah. My DOT number is 314227.\",\"start\":5950,\"end\":9640},{\"id\":\"0198aa09-0d6e-7878-b47b-dc8d6f45896c\",\"role\":\"assistant\",\"content\":\"Thank you for providing your DOT number. Unfortunately, it seems that your carrier is not eligible at this time. If you have any other questions or need further assistance, please feel free to reach out. Have a great day!\",\"tool_calls\":[{\"id\":\"call_Y8mNPzX1XLqf0WDKowq1TrOa\",\"function\":{\"name\":\"_hangup\",\"arguments\":\"{\\\"_message\\\":\\\"Thank you for providing your DOT number. Unfortunately, it seems that your carrier is not eligible at this time. If you have any other questions or need further assistance, please feel free to reach out. Have a great day!\\\"}\"}}]},{\"id\":null,\"role\":\"event\",\"content\":\"agent_hung_up\"}]",
+    "outcome": "Load Matched",
+    "sentiment": "Negative",
+    "timestamp": "2025-08-14T19:22:56.854Z"
+  },
+  {
+    "transcript": "[{\"id\":null,\"role\":\"event\",\"content\":\"user_joined\"},{\"id\":\"0198aa0b-dfed-7c7f-b290-93d0aa633399\",\"role\":\"assistant\",\"content\":\"Hello, thanks for calling Acme Logistics. May I have your MC or DOT number so I can verify your carrier eligibility?\"},{\"id\":\"6866f752-ed42-43ff-a056-a91df9ea94c7\",\"role\":\"user\",\"content\":\"Yeah. My MC number is 070908.\",\"start\":7690,\"end\":10550},{\"id\":\"0198aa0c-0895-73b7-90f6-24a305438e0f\",\"role\":\"assistant\",\"content\":\"Thank you for providing your MC number. Unfortunately, it seems that your carrier is not eligible at this time. If you have any\"},{\"id\":\"24cfc376-8f74-4069-817b-d63e9647ea11\",\"role\":\"user\",\"content\":\"Why?\",\"start\":13930,\"end\":18079},{\"id\":\"0198aa0c-5d65-78f3-8126-c492a501a4e3\",\"role\":\"assistant\",\"content\":\"I apologize for any inconvenience. Unfortunately, I don't have specific details on why a carrier might be ineligible. It could be due to various reasons such as compliance issues or expired credentials. I recommend checking with the relevant authorities or your compliance department for more information. If there's anything else I can assist you with, please let me know.\"},{\"id\":\"b5232c03-c582-49b3-a446-d91d79389b29\",\"role\":\"user\",\"content\":\"No.\",\"start\":40340,\"end\":42020},{\"id\":\"0198aa0c-77b9-7ccd-a55f-d5f4b9bdb6f0\",\"role\":\"assistant\",\"content\":\"Thank you for calling Acme Logistics. Have a great day!\",\"tool_calls\":[{\"id\":\"call_gzixDzTaUMqaTg6JRMNA9hhl\",\"function\":{\"name\":\"_hangup\",\"arguments\":\"{\\\"_message\\\":\\\"Thank you for calling Acme Logistics. Have a great day!\\\"}\"}}]},{\"id\":null,\"role\":\"event\",\"content\":\"agent_hung_up\"}]",
+    "outcome": "Load Matched",
+    "sentiment": "Negative",
+    "timestamp": "2025-08-14T19:26:40.776Z"
+  },
+  {
+    "transcript": "[]",
+    "outcome": "Load Matched",
+    "sentiment": "Neutral",
+    "timestamp": "2025-08-14T19:30:58.857Z"
+  },
+  {
+    "transcript": "[{\"id\":null,\"role\":\"event\",\"content\":\"user_joined\"},{\"id\":\"0198aa10-cd49-77f5-a27a-1350fdd174a9\",\"role\":\"assistant\",\"content\":\"Hello, thanks for calling Acme Logistics. May I have your MC or DOT number so I can verify your carrier eligibility?\"},{\"id\":\"398644d7-5508-46df-9f4b-aae32dd54a4a\",\"role\":\"user\",\"content\":\"Yeah. It's 070908.\",\"start\":8360,\"end\":10739},{\"id\":\"0198aa11-1500-7af5-8ccb-38293a9465d8\",\"role\":\"assistant\",\"content\":\"Thank you for providing your MC number. Unfortunately, it seems that your carrier is not eligible at this time. If you have any other questions or need further assistance, please feel free to reach out. Have a great day!\",\"tool_calls\":[{\"id\":\"call_bvspsgPcrdGRMn7ViVBQus2H\",\"function\":{\"name\":\"_hangup\",\"arguments\":\"{\\\"_message\\\":\\\"Thank you for providing your MC number. Unfortunately, it seems that your carrier is not eligible at this time. If you have any other questions or need further assistance, please feel free to reach out. Have a great day!\\\"}\"}}]},{\"id\":null,\"role\":\"event\",\"content\":\"agent_hung_up\"}]",
+    "outcome": "Load Matched",
+    "sentiment": "Negative",
+    "timestamp": "2025-08-14T19:31:43.118Z"
+  },
+  {
+    "transcript": "[]",
+    "outcome": "Unknown",
+    "sentiment": "Neutral",
+    "timestamp": "2025-08-14T21:25:57.645Z"
+  },
+  {
+    "transcript": "[{\"id\":null,\"role\":\"event\",\"content\":\"user_joined\"},{\"id\":\"0198aa7a-993f-7ee3-bc2c-4780310608c8\",\"role\":\"assistant\",\"content\":\"Hello, thanks for calling Acme Logistics. May I have your MC or DOT number so I can verify your carrier eligibility?\"},{\"id\":null,\"role\":\"event\",\"content\":\"user_disconnected\"}]",
+    "outcome": "Unknown",
+    "sentiment": "Neutral",
+    "timestamp": "2025-08-14T21:27:17.079Z"
+  },
+  {
+    "transcript": "[{\"id\":null,\"role\":\"event\",\"content\":\"user_joined\"},{\"id\":\"0198aa7c-026a-7681-90e1-cd46e2d9f3c2\",\"role\":\"assistant\",\"content\":\"Hello,\"},{\"id\":\"9696b176-1d57-44a2-9bc5-9807ed7c57c1\",\"role\":\"user\",\"content\":\"Hello?\",\"end\":2190},{\"id\":\"0198aa7c-1899-7879-a2b8-1056c3e3c1c6\",\"role\":\"assistant\",\"content\":\"thanks for calling Acme Logistics. May I have your MC or DOT number so I can verify your carrier eligibility?\"},{\"id\":\"7e6587b1-de4b-4a75-84fb-2c6c084cb26f\",\"role\":\"user\",\"content\":\"Yeah. My MC number is 209324.\",\"start\":7730,\"end\":10760},{\"id\":\"0198aa7c-53bd-74ce-915a-cbbf17450a32\",\"role\":\"assistant\",\"content\":\"Thank you for providing your MC number. Unfortunately, it seems that your carrier is not eligible at this time. If you have any further questions or need assistance, please feel free to reach out again. Have a great day!\",\"tool_calls\":[{\"id\":\"call_5HbclFDRJwQrWkltDUGptWQk\",\"function\":{\"name\":\"_hangup\",\"arguments\":\"{\\\"_message\\\":\\\"Thank you for providing your MC number. Unfortunately, it seems that your carrier is not eligible at this time. If you have any further questions or need assistance, please feel free to reach out again. Have a great day!\\\"}\"}}]},{\"id\":null,\"role\":\"event\",\"content\":\"agent_hung_up\"}]",
+    "outcome": "Carrier Eligible",
+    "sentiment": "Negative",
+    "timestamp": "2025-08-14T21:28:51.572Z"
+  },
+  {
+    "transcript": "[]",
+    "outcome": "Unknown",
+    "sentiment": "Neutral",
+    "timestamp": "2025-08-14T21:32:52.312Z"
+  }
+]

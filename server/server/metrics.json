@@ -1,0 +1,14 @@
+[
+  {
+    "callId": "test-002",
+    "mc": "MC98765",
+    "origin": "New York, NY",
+    "destination": "Los Angeles, CA",
+    "equipmentType": "Reefer",
+    "pickupDateTime": "2025-08-20T08:00:00Z",
+    "rate": 3000,
+    "outcome": "Booked",
+    "sentiment": "Positive",
+    "timestamp": "2025-08-14T23:07:21.167Z"
+  }
+]
